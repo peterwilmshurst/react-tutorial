@@ -2,19 +2,19 @@
     "blogs": [
         {
             "title": "Blog Post 01", 
-            "body": "lorem ipsum...", 
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquam, tellus dapibus tincidunt sagittis, magna libero varius libero, ut placerat nisl erat sit amet est. Sed commodo nulla eu nunc facilisis accumsan. Pellentesque eu augue mauris. In maximus quam eget ex pretium, nec accumsan neque tincidunt. Maecenas sapien sem, euismod ut dui quis, interdum aliquet turpis. Sed volutpat ligula eget diam posuere scelerisque. Nunc eget mollis metus. Etiam et dui id augue tempus tempus. Nam maximus lacus nisi, et sodales lacus egestas vitae. Phasellus vitae ex velit. Fusce lacinia mi feugiat turpis fringilla, a faucibus quam ornare. Vivamus at mauris mollis, pretium purus eget, rhoncus mauris. Phasellus viverra malesuada mi, ut semper lacus semper a.", 
             "author": "mario", 
             "id": 1 
         },
         {
             "title": "Blog Post 02", 
-            "body": "lorem ipsum...", 
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquam, tellus dapibus tincidunt sagittis, magna libero varius libero, ut placerat nisl erat sit amet est. Sed commodo nulla eu nunc facilisis accumsan. Pellentesque eu augue mauris. In maximus quam eget ex pretium, nec accumsan neque tincidunt. Maecenas sapien sem, euismod ut dui quis, interdum aliquet turpis. Sed volutpat ligula eget diam posuere scelerisque.", 
             "author": "luigi", 
             "id": 2
         },
         {
             "title": "Blog Post 03", 
-            "body": "lorem ipsum...", 
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquam, tellus dapibus tincidunt sagittis, magna libero varius libero, ut placerat nisl erat sit amet est. Sed commodo nulla eu nunc facilisis accumsan", 
             "author": "yoshi", 
             "id": 3
         }
